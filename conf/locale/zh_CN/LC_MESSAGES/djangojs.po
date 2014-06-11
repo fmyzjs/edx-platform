@@ -4,36 +4,40 @@
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # 
 # Translators:
-# csc <am15501@163.com>, 2014
-# Bookman <bookman@vip.163.com>, 2013
-# PeterWang.Dut <peterwang.dut@gmail.com>, 2014
-# csc <am15501@163.com>, 2014
+# shuchuanchen <am15501@163.com>, 2014
+# 肖寒 <bookman@vip.163.com>, 2013
+# Changyue Wang <peterwang.dut@gmail.com>, 2014
+# shuchuanchen <am15501@163.com>, 2014
 # felicitychou <felicitychou@hotmail.com>, 2014
 # focusheart <focusheart@gmail.com>, 2014
 # focusheart <focusheart@gmail.com>, 2014
 # freakylemon <freakylemon@ymail.com>, 2014
-# hanwentao <wentao.han@gmail.com>, 2013
-# harry75369 <harry75369@gmail.com>, 2014
+# Wentao Han <wentao.han@gmail.com>, 2013
+# Harry Li <harry75369@gmail.com>, 2014
 # hohomi <hohomi@gmail.com>, 2014
 # Jerome Huang <canni3269@gmail.com>, 2014
 # jiangnan.hugo <jiangnan.hugo@gmail.com>, 2014
+# jsgang <jsgang9@gmail.com>, 2014
 # daisybellamy <linmiaoqiqi@hotmail.com>, 2014
-# liuyang <liuyang2011@tsinghua.edu.cn>, 2013
+# 刘洋 <liuyang2011@tsinghua.edu.cn>, 2013
 # pku9104038 <pku9104038@hotmail.com>, 2014
-# csc <am15501@163.com>, 2014
+# Sarina Canelake <sarina@edx.org>, 2014
+# shuchuanchen <am15501@163.com>, 2014
 # skyclass443 <cyx19920829@gmail.com>, 2014
-# thinxer <me@thinxer.com>, 2013
-# vicapple22 <vicapple22@gmail.com>, 2013
-# hanwentao <wentao.han@gmail.com>, 2013
-# xdsnet <xdsnet@gmail.com>, 2013
-# zibuyu <liuliudong@163.com>, 2013
-# ztaihong <zth@xjau.edu.cn>, 2014
-# liuyang <liuyang2011@tsinghua.edu.cn>, 2013
-# ztaihong <zth@xjau.edu.cn>, 2014
-# vicapple22 <vicapple22@gmail.com>, 2013
-# xdsnet <xdsnet@gmail.com>, 2013
-# fmyzjs <fmyzjs@gmail.com>, 2014
-# c0710204 <c0710204@gmail.com>, 2014
+# louyihua <supermouselyh@hotmail.com>, 2014
+# Jianfei Wang <me@thinxer.com>, 2013
+# 沈世奇 <vicapple22@gmail.com>, 2013
+# Wentao Han <wentao.han@gmail.com>, 2013
+# 熊冬升 <xdsnet@gmail.com>, 2013
+# yan9yu, 2014
+# 刘知远 <liuliudong@163.com>, 2013
+# 张太红 <zth@xjau.edu.cn>, 2014
+# 刘洋 <liuyang2011@tsinghua.edu.cn>, 2013
+# 张太红 <zth@xjau.edu.cn>, 2014
+# 沈世奇 <vicapple22@gmail.com>, 2013
+# 熊冬升 <xdsnet@gmail.com>, 2013
+# 竹轩 <fmyzjs@gmail.com>, 2014
+# 顾翔 <c0710204@gmail.com>, 2014
 # #-#-#-#-#  djangojs-studio.po (edx-platform)  #-#-#-#-#
 # edX translation file.
 # Copyright (C) 2014 EdX
@@ -41,33 +45,41 @@
 # 
 # Translators:
 # vingte <411029240@qq.com>, 2014
-# Bookman <bookman@vip.163.com>, 2013
-# csc <am15501@163.com>, 2014
+# 肖寒 <bookman@vip.163.com>, 2013
+# shuchuanchen <am15501@163.com>, 2014
 # focusheart <focusheart@gmail.com>, 2014
-# hanwentao <wentao.han@gmail.com>, 2013
-# harry75369 <harry75369@gmail.com>, 2014
+# Wentao Han <wentao.han@gmail.com>, 2013
+# Harry Li <harry75369@gmail.com>, 2014
 # Jerome Huang <canni3269@gmail.com>, 2014
-# liuyang <liuyang2011@tsinghua.edu.cn>, 2013
+# 刘洋 <liuyang2011@tsinghua.edu.cn>, 2013
 # pku9104038 <pku9104038@hotmail.com>, 2014
-# thinxer <me@thinxer.com>, 2013
-# vicapple22 <vicapple22@gmail.com>, 2013
-# xdsnet <xdsnet@gmail.com>, 2013
-# yetie <yetie.net@gmail.com>, 2014
-# zibuyu <liuliudong@163.com>, 2013
-# ztaihong <zth@xjau.edu.cn>, 2014
-# ztaihong <zth@xjau.edu.cn>, 2014
-# fmyzjs <fmyzjs@gmail.com>, 2014
+# Jianfei Wang <me@thinxer.com>, 2013
+# 沈世奇 <vicapple22@gmail.com>, 2013
+# 熊冬升 <xdsnet@gmail.com>, 2013
+# xianwei yang <yetie.net@gmail.com>, 2014
+# 刘知远 <liuliudong@163.com>, 2013
+# 张太红 <zth@xjau.edu.cn>, 2014
+# 张太红 <zth@xjau.edu.cn>, 2014
+# 竹轩 <fmyzjs@gmail.com>, 2014
+# #-#-#-#-#  underscore.po (edx-platform)  #-#-#-#-#
+# Translations template for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# 
+# Translators:
+# louyihua <supermouselyh@hotmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-platform\n"
-"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2014-05-26 20:45-0400\n"
-"PO-Revision-Date: 2014-05-25 02:51+0000\n"
-"Last-Translator: sarina <sarina@edx.org>\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-06-10 11:38-0400\n"
+"PO-Revision-Date: 2014-06-11 13:26+0000\n"
+"Last-Translator: louyihua <supermouselyh@hotmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/edx-platform/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -85,12 +97,30 @@ msgstr "是的"
 #: cms/static/js/views/modals/base_modal.js
 #: lms/static/admin/js/admin/DateTimeShortcuts.js
 #: lms/static/admin/js/admin/DateTimeShortcuts.js
+#: cms/templates/js/add-xblock-component-menu-problem.underscore
+#: cms/templates/js/add-xblock-component-menu.underscore
+#: cms/templates/js/edit-textbook.underscore
+#: cms/templates/js/section-name-edit.underscore
 msgid "Cancel"
 msgstr "取消"
 
 #: cms/static/js/base.js lms/static/js/verify_student/photocapture.js
+#: cms/templates/js/checklist.underscore
+#, fuzzy
 msgid "This link will open in a new browser window/tab"
-msgstr "该链接将在新的浏览器窗口/标签打开"
+msgstr ""
+"#-#-#-#-#  djangojs-partial.po (edx-platform)  #-#-#-#-#\n"
+"该链接将在新的浏览器窗口/标签打开\n"
+"#-#-#-#-#  underscore.po (edx-platform)  #-#-#-#-#\n"
+"该链接将会在新的浏览器窗口／标签打开"
+
+#: cms/static/js/views/asset.js cms/static/js/views/show_textbook.js
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: cms/templates/js/course_grade_policy.underscore
+#: cms/templates/js/show-textbook.underscore
+msgid "Delete"
+msgstr "删除"
 
 #: common/lib/xmodule/xmodule/js/src/annotatable/display.js
 msgid "Show Annotations"
@@ -130,7 +160,7 @@ msgstr[0] "(%(earned)s/%(possible)s 分)"
 #: common/lib/xmodule/xmodule/js/src/capa/display.js
 msgid "(%(num_points)s point possible)"
 msgid_plural "(%(num_points)s points possible)"
-msgstr[0] "(可能的分数%(num_points)s )"
+msgstr[0] "(本题共有%(num_points)s分)"
 
 #: common/lib/xmodule/xmodule/js/src/capa/display.js
 #: common/lib/xmodule/xmodule/js/src/capa/display.js
@@ -299,8 +329,17 @@ msgid "Maximum"
 msgstr "最大数值"
 
 #: common/lib/xmodule/xmodule/js/src/video/02_html5_video.js
-msgid "This browser cannot play .mp4, .ogg, or "
-msgstr ""
+msgid ""
+"VideoPlayer: Element corresponding to the given selector does not found."
+msgstr "视频播放器：未找到与给定选择器对应的元素。"
+
+#: common/lib/xmodule/xmodule/js/src/video/02_html5_video.js
+msgid "This browser cannot play .mp4, .ogg, or .webm files."
+msgstr "当前浏览器不支持播放 MP4、OGG 或 WEBM 格式的文件。"
+
+#: common/lib/xmodule/xmodule/js/src/video/02_html5_video.js
+msgid "Try using a different browser, such as Google Chrome."
+msgstr "请试着更换一个浏览器，如谷歌的 Chrome 浏览器。"
 
 #: common/lib/xmodule/xmodule/js/src/video/04_video_control.js
 msgid "Video slider"
@@ -422,6 +461,7 @@ msgstr "…"
 
 #: common/static/coffee/src/discussion/views/discussion_content_view.js
 #: common/static/coffee/src/discussion/views/discussion_content_view.js
+#: common/templates/js/image-modal.underscore
 msgid "Close"
 msgstr "关闭"
 
@@ -582,23 +622,23 @@ msgstr "你确定要删除这个回复吗"
 
 #: common/static/js/capa/drag_and_drop/base_image.js
 msgid "Drop target image"
-msgstr ""
+msgstr "拖放的目标图像"
 
 #: common/static/js/capa/drag_and_drop/draggable_events.js
 msgid "dragging out of slider"
-msgstr ""
+msgstr "拖拽出滑块区域"
 
 #: common/static/js/capa/drag_and_drop/draggable_events.js
 msgid "dragging"
-msgstr ""
+msgstr "拖拽"
 
 #: common/static/js/capa/drag_and_drop/draggable_events.js
 msgid "dropped in slider"
-msgstr ""
+msgstr "在滑块中放下"
 
 #: common/static/js/capa/drag_and_drop/draggable_events.js
 msgid "dropped on target"
-msgstr ""
+msgstr "在目标上放下"
 
 #: common/static/js/src/jquery.timeago.locale.js
 msgid "%s ago"
@@ -657,6 +697,108 @@ msgid "%d year"
 msgid_plural "%d years"
 msgstr[0] "%d 年"
 
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "User"
+msgstr "用户"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Annotation"
+msgstr "解说"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Start"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "End"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "#Replies"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Date posted"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "More"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "My Notes"
+msgstr "我的笔记"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Instructor"
+msgstr "主讲教师"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Public"
+msgstr "公开"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Search"
+msgstr "搜索"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Users"
+msgstr "用户"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Tags"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Annotation Text"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: cms/templates/js/metadata-dict-entry.underscore
+#: cms/templates/js/metadata-file-uploader-entry.underscore
+#: cms/templates/js/metadata-list-entry.underscore
+#: cms/templates/js/metadata-number-entry.underscore
+#: cms/templates/js/metadata-option-entry.underscore
+#: cms/templates/js/metadata-string-entry.underscore
+#: cms/templates/js/mock/mock-xmodule-editor.underscore
+#: cms/templates/js/mock/mock-xmodule-settings-only-editor.underscore
+#: cms/templates/js/video/metadata-translations-entry.underscore
+msgid "Clear"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Text"
+msgstr "文本"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Video"
+msgstr "视频"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Image"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Reply"
+msgstr ""
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+#: cms/templates/js/show-textbook.underscore
+#: cms/templates/js/mock/mock-container-page.underscore
+msgid "Edit"
+msgstr "编辑"
+
+#: common/static/js/vendor/ova/catch/js/catch.js
+msgid "Tags:"
+msgstr ""
+
 #: lms/static/admin/js/SelectFilter2.js
 msgid "Available %s"
 msgstr "可用 %s"
@@ -688,6 +830,7 @@ msgid "Choose"
 msgstr "选择"
 
 #: lms/static/admin/js/SelectFilter2.js
+#: cms/templates/js/video/metadata-translations-item.underscore
 msgid "Remove"
 msgstr "移除"
 
@@ -811,6 +954,7 @@ msgid "Close Calculator"
 msgstr "关闭计算器"
 
 #: lms/static/coffee/src/customwmd.js
+#: cms/templates/js/asset-library.underscore
 msgid "Preview"
 msgstr "预览"
 
@@ -1067,7 +1211,7 @@ msgstr "请输入学生的邮件地址或用户名。"
 msgid ""
 "Error getting student progress url for '<%= student_id %>'. Make sure that "
 "the student identifier is spelled correctly."
-msgstr ""
+msgstr "获取学生“<%= student_id %>”的进度 URL 时出错。请确认该学生的 ID 已正确拼写。"
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
@@ -1077,7 +1221,7 @@ msgstr ""
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 msgid "Please enter a problem location."
-msgstr ""
+msgstr "请输入问题的位置。"
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 msgid ""
@@ -1091,6 +1235,8 @@ msgid ""
 " '<%= student_id %>'. Make sure that the problem and student identifiers are"
 " complete and correct."
 msgstr ""
+"重置学生“<%= student_id %>”对问题“<%= problem_id %>”的尝试次数时出错。请确认该问题的 ID 及学生的 ID "
+"已正确拼写。"
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 msgid ""
@@ -1103,6 +1249,8 @@ msgid ""
 " %>'. Make sure that the problem and student identifiers are complete and "
 "correct."
 msgstr ""
+"删除学生“<%= student_id %>”在问题“<%= problem_id %>”上的状态时出错。请确认该问题的 ID 及学生的 ID "
+"是完整且正确的。"
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 msgid "Module state successfully deleted."
@@ -1123,6 +1271,8 @@ msgid ""
 "'<%= student_id %>'. Make sure that the the problem and student identifiers "
 "are complete and correct."
 msgstr ""
+"为学生“<%= student_id %>”启动对问题“<%= problem_id %>”的重新评分任务时出错。请确认该问题的 ID 及学生的 ID "
+"是完整且正确的。"
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 msgid ""
@@ -1130,6 +1280,8 @@ msgid ""
 "student_id %>'. Make sure that the problem and student identifiers are "
 "complete and correct."
 msgstr ""
+"在获取学生“<%= student_id %>”对问题“<%= problem_id %>”的任务历史时出错。请确认该问题的 ID 及学生的 ID "
+"是完整且正确的。"
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 msgid "Reset attempts for all students on problem '<%= problem_id %>'?"
@@ -1147,7 +1299,7 @@ msgid ""
 "Error starting a task to reset attempts for all students on problem '<%= "
 "problem_id %>'. Make sure that the problem identifier is complete and "
 "correct."
-msgstr ""
+msgstr "启动重置所有学生在问题“<%= problem_id %>”上尝试次数的任务时出错。请确认该问题的 ID 是完整且正确的。"
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 msgid "Rescore problem '<%= problem_id %>' for all students?"
@@ -1164,7 +1316,7 @@ msgstr "成功启动所有学生回答问题  '<%= problem_id %>' 重新评分�
 msgid ""
 "Error starting a task to rescore problem '<%= problem_id %>'. Make sure that"
 " the problem identifier is complete and correct."
-msgstr ""
+msgstr "启动对问题“<%= problem_id %>”的重新评分任务时出错。请确认该问题的 ID 是完整且正确的。"
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js
 msgid "Error listing task history for this student and problem."
@@ -1425,15 +1577,15 @@ msgstr "无法读取数据，请稍后再试试。"
 
 #: lms/templates/class_dashboard/d3_stacked_bar_graph.js
 msgid "student(s) opened Subsection"
-msgstr ""
+msgstr "()名学生打开了小节"
 
 #: lms/templates/class_dashboard/d3_stacked_bar_graph.js
 msgid "students"
-msgstr ""
+msgstr "学生们"
 
 #: lms/templates/class_dashboard/d3_stacked_bar_graph.js
 msgid "questions"
-msgstr ""
+msgstr "问题"
 
 #: lms/templates/class_dashboard/d3_stacked_bar_graph.js
 msgid "Number of Students"
@@ -1461,14 +1613,13 @@ msgid "Saving&hellip;"
 msgstr "保存中&hellip;"
 
 #: cms/static/coffee/src/views/tabs.js
-msgid "Delete Component Confirmation"
-msgstr "删除组件确认"
+msgid "Delete Page Confirmation"
+msgstr ""
 
 #: cms/static/coffee/src/views/tabs.js
 msgid ""
-"Are you sure you want to delete this component? This action cannot be "
-"undone."
-msgstr "您确定删除此组件吗？此操作不可恢复。"
+"Are you sure you want to delete this page? This action cannot be undone."
+msgstr ""
 
 #: cms/static/coffee/src/views/tabs.js cms/static/coffee/src/views/unit.js
 #: cms/static/js/base.js cms/static/js/views/course_info_update.js
@@ -1611,37 +1762,35 @@ msgstr ""
 "\n"
 "与这个项目相关的一切信息（如相应的图片和链接）都会丢失。"
 
-#: cms/static/js/views/asset.js cms/static/js/views/show_textbook.js
-msgid "Delete"
-msgstr "删除"
-
 #: cms/static/js/views/asset.js
 msgid "Your file has been deleted."
 msgstr "您的文件已经被删除"
 
-#: cms/static/js/views/assets.js
+#: cms/static/js/views/assets.js cms/templates/js/asset-library.underscore
 msgid "Name"
 msgstr "名称"
 
-#: cms/static/js/views/assets.js
+#: cms/static/js/views/assets.js cms/templates/js/asset-library.underscore
 msgid "Date Added"
 msgstr "添加日期"
 
 #: cms/static/js/views/assets.js
 msgid "Uploading…"
-msgstr ""
+msgstr "上传中……"
 
 #: cms/static/js/views/assets.js
+#: cms/templates/js/asset-upload-modal.underscore
 msgid "Choose File"
-msgstr ""
+msgstr "选择文件"
 
 #: cms/static/js/views/assets.js
+#: cms/templates/js/asset-upload-modal.underscore
 msgid "Upload New File"
-msgstr ""
+msgstr "上传新文件"
 
 #: cms/static/js/views/assets.js
 msgid "Load Another File"
-msgstr ""
+msgstr "加载其他文件"
 
 #: cms/static/js/views/course_info_update.js
 msgid "Are you sure you want to delete this update?"
@@ -1747,6 +1896,8 @@ msgid "Deleting"
 msgstr "删除中"
 
 #: cms/static/js/views/uploads.js
+#: cms/templates/js/metadata-file-uploader-item.underscore
+#: cms/templates/js/video/metadata-translations-item.underscore
 msgid "Upload"
 msgstr "上传"
 
@@ -1792,6 +1943,8 @@ msgid "Adding&hellip;"
 msgstr "增加&hellip;"
 
 #: cms/static/js/views/modals/base_modal.js
+#: cms/templates/js/edit-textbook.underscore
+#: cms/templates/js/section-name-edit.underscore
 msgid "Save"
 msgstr "保存"
 
@@ -1837,3 +1990,408 @@ msgstr "对不起，您上传的字幕文件存在格式错误，请检查并重
 #: cms/static/js/views/video/translations_editor.js
 msgid "Upload translation"
 msgstr "上传译文"
+
+#: cms/templates/js/add-xblock-component-menu-problem.underscore
+msgid "Common Problem Types"
+msgstr "常见问题类型"
+
+#: cms/templates/js/add-xblock-component-menu-problem.underscore
+msgid "Advanced"
+msgstr "高级"
+
+#: cms/templates/js/add-xblock-component.underscore
+msgid "Add New Component"
+msgstr "添加新组件"
+
+#: cms/templates/js/asset-library.underscore
+msgid "List of uploaded files and assets in this course"
+msgstr "列表显示课程上传文件资源"
+
+#: cms/templates/js/asset-library.underscore
+msgid "Embed URL"
+msgstr "内部 URL"
+
+#: cms/templates/js/asset-library.underscore
+msgid "External URL"
+msgstr "对外 URL"
+
+#: cms/templates/js/asset-library.underscore
+#: cms/templates/js/basic-modal.underscore
+msgid "Actions"
+msgstr "动作"
+
+#: cms/templates/js/asset-library.underscore
+msgid "You haven't added any assets to this course yet."
+msgstr "你尚未向该课程添加任何资源。"
+
+#: cms/templates/js/asset-library.underscore
+msgid "Upload your first asset"
+msgstr "上传第一个资源"
+
+#: cms/templates/js/asset-upload-modal.underscore
+msgid "close"
+msgstr "关闭"
+
+#: cms/templates/js/asset.underscore
+msgid "Open/download this file"
+msgstr "打开／下载该文件"
+
+#: cms/templates/js/asset.underscore
+msgid "Delete this asset"
+msgstr "删除该资源"
+
+#: cms/templates/js/asset.underscore
+msgid "Lock this asset"
+msgstr "锁定该资源"
+
+#: cms/templates/js/asset.underscore
+msgid "Lock/unlock file"
+msgstr "锁定／解锁文件"
+
+#: cms/templates/js/checklist.underscore
+msgid "{number}% of checklists completed"
+msgstr "已完成 {number}% o的检查表项目"
+
+#: cms/templates/js/checklist.underscore
+msgid "Tasks Completed:"
+msgstr "已完成的任务："
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "Assignment Type Name"
+msgstr "作业类型名称"
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "e.g. Homework, Midterm Exams"
+msgstr "例如：家庭作业、期中考试"
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "Abbreviation"
+msgstr "缩写"
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "e.g. HW, Midterm"
+msgstr "例如：家庭作业、期中考试"
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "Weight of Total Grade"
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "as a percent, e.g. 40"
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "Total Number"
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "total exercises assigned"
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "Number of Droppable"
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "total exercises that won't be graded"
+msgstr ""
+
+#: cms/templates/js/course_info_handouts.underscore
+msgid "You have no handouts defined"
+msgstr ""
+
+#: cms/templates/js/course_info_handouts.underscore
+msgid ""
+"There is invalid code in your content. Please check to make sure it is valid"
+" HTML."
+msgstr ""
+
+#: cms/templates/js/edit-chapter.underscore
+msgid "Chapter Name"
+msgstr ""
+
+#: cms/templates/js/edit-chapter.underscore
+msgid "Chapter %s"
+msgstr ""
+
+#: cms/templates/js/edit-chapter.underscore
+msgid "provide the title/name of the chapter that will be used in navigating"
+msgstr ""
+
+#: cms/templates/js/edit-chapter.underscore
+msgid "Chapter Asset"
+msgstr ""
+
+#: cms/templates/js/edit-chapter.underscore
+msgid "path/to/introductionToCookieBaking-CH%d.pdf"
+msgstr ""
+
+#: cms/templates/js/edit-chapter.underscore
+msgid "upload a PDF file or provide the path to a Studio asset file"
+msgstr ""
+
+#: cms/templates/js/edit-chapter.underscore
+msgid "Upload PDF"
+msgstr ""
+
+#: cms/templates/js/edit-chapter.underscore
+msgid "delete chapter"
+msgstr ""
+
+#: cms/templates/js/edit-textbook.underscore
+msgid "error.message"
+msgstr ""
+
+#: cms/templates/js/edit-textbook.underscore
+msgid "Textbook information"
+msgstr ""
+
+#: cms/templates/js/edit-textbook.underscore
+msgid "Textbook Name"
+msgstr ""
+
+#: cms/templates/js/edit-textbook.underscore
+msgid "Introduction to Cookie Baking"
+msgstr ""
+
+#: cms/templates/js/edit-textbook.underscore
+msgid ""
+"provide the title/name of the text book as you would like your students to "
+"see it"
+msgstr ""
+
+#: cms/templates/js/edit-textbook.underscore
+msgid "Chapter(s) information"
+msgstr ""
+
+#: cms/templates/js/edit-textbook.underscore
+msgid "Add a Chapter"
+msgstr ""
+
+#: cms/templates/js/metadata-dict-entry.underscore
+#: cms/templates/js/metadata-list-entry.underscore
+#: cms/templates/js/video/metadata-translations-entry.underscore
+msgid "Add"
+msgstr ""
+
+#: cms/templates/js/metadata-dict-entry.underscore
+#: cms/templates/js/metadata-file-uploader-entry.underscore
+#: cms/templates/js/metadata-list-entry.underscore
+#: cms/templates/js/metadata-number-entry.underscore
+#: cms/templates/js/metadata-option-entry.underscore
+#: cms/templates/js/metadata-string-entry.underscore
+#: cms/templates/js/mock/mock-xmodule-editor.underscore
+#: cms/templates/js/mock/mock-xmodule-settings-only-editor.underscore
+#: cms/templates/js/video/metadata-translations-entry.underscore
+msgid "Clear Value"
+msgstr ""
+
+#: cms/templates/js/metadata-file-uploader-item.underscore
+#: cms/templates/js/video/metadata-translations-item.underscore
+msgid "Replace"
+msgstr "替换"
+
+#: cms/templates/js/metadata-file-uploader-item.underscore
+#: cms/templates/js/video/metadata-translations-item.underscore
+msgid "Download"
+msgstr ""
+
+#: cms/templates/js/no-textbooks.underscore
+msgid "You haven't added any textbooks to this course yet."
+msgstr ""
+
+#: cms/templates/js/no-textbooks.underscore
+msgid "Add your first textbook"
+msgstr ""
+
+#: cms/templates/js/paging-footer.underscore
+#: cms/templates/js/paging-header.underscore
+msgid "Previous"
+msgstr "上一个"
+
+#: cms/templates/js/paging-footer.underscore
+msgid "Page number"
+msgstr ""
+
+#: cms/templates/js/paging-footer.underscore
+#: cms/templates/js/paging-header.underscore
+msgid "Next"
+msgstr "下一个"
+
+#: cms/templates/js/show-textbook.underscore
+msgid "View Live"
+msgstr "在线查看"
+
+#: cms/templates/js/upload-dialog.underscore
+msgid "File upload succeeded"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/metadata-videolist-entry.underscore
+msgid "Add URLs for additional versions"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/metadata-videolist-entry.underscore
+msgid ""
+"To be sure all students can access the video, we recommend providing both an"
+" .mp4 and a .webm version of your video. Click below to add a URL for "
+"another version. These URLs cannot be YouTube URLs. The first listed video "
+"that\\'s compatible with the student\\'s computer will play."
+msgstr ""
+
+#: cms/templates/js/video/transcripts/metadata-videolist-entry.underscore
+msgid "Default Timed Transcript"
+msgstr "默认字幕"
+
+#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
+msgid "Timed Transcript Conflict"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
+msgid ""
+"The timed transcript for the first video file does not appear to be the same"
+" as the timed transcript for the second video file."
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
+msgid "Which timed transcript would you like to use?"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
+msgid "Error."
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-choose.underscore
+msgid "Timed Transcript from"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
+msgid "Timed Transcript Found"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
+msgid ""
+"EdX has a timed transcript for this video. If you want to edit this "
+"transcript, you can download, edit, and re-upload the existing transcript. "
+"If you want to replace this transcript, upload a new .srt transcript file."
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
+msgid "Upload New Transcript"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
+msgid "Upload New .srt Transcript"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
+msgid "Download Transcript for Editing"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
+msgid "No EdX Timed Transcript"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
+msgid ""
+"EdX doesn\\'t have a timed transcript for this video in Studio, but we found"
+" a transcript on YouTube. You can import the YouTube transcript or upload "
+"your own .srt transcript file."
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-import.underscore
+msgid "Import YouTube Transcript"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
+msgid "No Timed Transcript"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-not-found.underscore
+msgid ""
+"EdX doesn\\'t have a timed transcript for this video. Please upload an .srt "
+"file."
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
+msgid ""
+"The timed transcript for this video on edX is out of date, but YouTube has a"
+" current timed transcript for this video."
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
+msgid "Do you want to replace the edX transcript with the YouTube transcript?"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-replace.underscore
+msgid "Yes, replace the edX transcript with the YouTube transcript"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
+msgid "Timed Transcript Uploaded Successfully"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-uploaded.underscore
+msgid ""
+"EdX has a timed transcript for this video. If you want to replace this "
+"transcript, upload a new .srt transcript file. If you want to edit this "
+"transcript, you can download, edit, and re-upload the existing transcript."
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
+msgid "Confirm Timed Transcript"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
+msgid ""
+"You changed a video URL, but did not change the timed transcript file. Do "
+"you want to use the current timed transcript or upload a new .srt transcript"
+" file?"
+msgstr ""
+
+#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
+#: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
+msgid "Use Current Transcript"
+msgstr ""
+
+#: common/templates/js/image-modal.underscore
+msgid "Fullscreen"
+msgstr "全屏"
+
+#: common/templates/js/image-modal.underscore
+msgid "Large"
+msgstr ""
+
+#: common/templates/js/image-modal.underscore
+msgid "Zoom In"
+msgstr "放大"
+
+#: common/templates/js/image-modal.underscore
+msgid "Zoom Out"
+msgstr "缩小"
