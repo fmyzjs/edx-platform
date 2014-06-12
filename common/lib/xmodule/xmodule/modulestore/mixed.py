@@ -332,6 +332,15 @@ class MixedModuleStore(ModuleStoreWriteBase):
             courses.extend(modulestore.get_courses_for_wiki(wiki_slug))
         return courses
 
+    def heartbeat(self):
+        """
+        Delegate to each modulestore and package the results for the caller.
+        """
+        # could be done in parallel threads if needed
+        result = {}
+        for store in self.modulestores.itervalues():
+            result.update(store.heartbeat())
+
 
 def _compare_stores(left, right):
     """
