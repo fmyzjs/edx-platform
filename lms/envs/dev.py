@@ -18,6 +18,7 @@ from logsettings import get_logger_config
 DEBUG = True
 TEMPLATE_DEBUG = True
 
+
 HTTPS = 'off'
 FEATURES['DISABLE_START_DATES'] = False
 FEATURES['ENABLE_SQL_TRACKING_LOGS'] = True
@@ -37,7 +38,7 @@ FEATURES['ENABLE_SHOPPING_CART'] = True
 FEATURES['AUTOMATIC_VERIFY_STUDENT_IDENTITY_FOR_TESTING'] = True
 FEATURES['ENABLE_S3_GRADE_DOWNLOADS'] = True
 FEATURES['IS_EDX_DOMAIN'] = True  # Is this an edX-owned domain? (used on instructor dashboard)
-
+FEATURES['COURSE_SEARCH'] = False
 
 FEEDBACK_SUBMISSION_EMAIL = "dummy@example.com"
 
