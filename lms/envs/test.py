@@ -20,6 +20,10 @@ from uuid import uuid4
 
 os.environ['DJANGO_LIVE_TEST_SERVER_ADDRESS'] = 'localhost:8000-9000'
 
+ES_DATABASE = "http://localhost:9200"
+
+ES_SETTINGS_FILE = "../../common/djangoapps/search/settings.json"
+
 # can't test start dates with this True, but on the other hand,
 # can test everything else :)
 FEATURES['DISABLE_START_DATES'] = True

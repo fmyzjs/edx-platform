@@ -533,6 +533,9 @@ INSTALLED_APPS = (
     # for managing course modes
     'course_modes',
 
+    # for course indexing
+    'search',
+
     # Dark-launching languages
     'dark_lang',
 
@@ -550,6 +553,7 @@ INSTALLED_APPS = (
 
     # Course action state
     'course_action_state'
+
 )
 
 
