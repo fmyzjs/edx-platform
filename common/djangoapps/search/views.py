@@ -10,7 +10,7 @@ import math
 import requests
 from django.conf import settings
 from django.http import HttpResponseBadRequest, HttpResponse, Http404
-from mitxmako.shortcuts import render_to_response
+from mako.shortcuts import render_to_response
 from django_future.csrf import ensure_csrf_cookie
 
 from courseware.courses import get_course_with_access
