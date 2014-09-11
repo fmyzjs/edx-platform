@@ -55,7 +55,8 @@ var DetailsView = ValidatingView.extend({
 
         this.$el.find('.current-course-introduction-video iframe').attr('src', this.model.videosourceSample());
         this.$el.find('#' + this.fieldToSelectorMap['intro_video']).val(this.model.get('intro_video') || '');
-        if (this.model.has('intro_video')) {
+        this.$el.find('#' + this.fieldToSelectorMap['intro_video_tudou']).val(this.model.get('intro_video_tudou') || '');
+        if (this.model.has('intro_video') || this.model.has('intro_video_tudou')) {
             this.$el.find('.remove-course-introduction-video').show();
         }
         else this.$el.find('.remove-course-introduction-video').hide();
@@ -76,6 +77,7 @@ var DetailsView = ValidatingView.extend({
         'overview' : 'course-overview',
         'short_description' : 'course-short-description',
         'intro_video' : 'course-introduction-video',
+        'intro_video_tudou' : 'course-introduction-video-tudou',
         'effort' : "course-effort",
         'course_image_asset_path': 'course-image-url'
     },
@@ -163,7 +165,7 @@ var DetailsView = ValidatingView.extend({
             clearTimeout(this.videoTimer);
             this.videoTimer = setTimeout(_.bind(function() {
                 this.$el.find(".current-course-introduction-video iframe").attr("src", previewsource);
-                if (this.model.has('intro_video')) {
+                if (this.model.has('intro_video') || this.model.has('intro_video_tudou')) {
                     this.$el.find('.remove-course-introduction-video').show();
                 }
                 else {
@@ -182,6 +184,12 @@ var DetailsView = ValidatingView.extend({
             this.model.set_videosource(null);
             this.$el.find(".current-course-introduction-video iframe").attr("src", "");
             this.$el.find('#' + this.fieldToSelectorMap['intro_video']).val("");
+            this.$el.find('.remove-course-introduction-video').hide();
+        }
+        if (this.model.has('intro_video_tudou')) {
+            this.model.set_videosource(null);
+            this.$el.find(".current-course-introduction-video iframe").attr("src", "");
+            this.$el.find('#' + this.fieldToSelectorMap['intro_video_tudou']).val("");
             this.$el.find('.remove-course-introduction-video').hide();
         }
     },
